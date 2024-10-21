@@ -1,4 +1,4 @@
 #include <stdio.h>
 main (void){
-	printf("hi bitch\n");
+	printf("hello GitHub!\n");
 }
